@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxhdpi"
+    format="7"
+    timestamp="3990481643285"
+    token="2600694892328732970" >
+
+    <task
+        name="javac"
+        duration="84" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="30" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/Users/kuofengchang/AndroidStudioProjects/BluetoothLeGatt/Application/build/outputs/apk/Application-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="3990481643285" >
+        <artifact
+            location="/Users/kuofengchang/AndroidStudioProjects/BluetoothLeGatt/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
